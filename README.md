@@ -108,9 +108,30 @@ Java • OOP • Problem Solving • DSA
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sowdeshwarisoundarrajan&show_icons=true&include_all_commits=true&count_private=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sowdeshwarisoundarrajan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowdeshwarisoundarrajan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sowdeshwarisoundarrajan&theme=tokyonight&hide_border=true" />
+
+</div>
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sowdeshwarisoundarrajan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
 
 ---
 
