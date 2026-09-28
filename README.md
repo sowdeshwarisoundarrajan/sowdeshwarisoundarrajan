@@ -63,48 +63,103 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ [FraudShield](https://github.com/sowdeshwarisoundarrajan/fraudshield)
+<table>
+<tr>
 
-AI-powered fraud detection system for identifying suspicious transactions.
+<td width="50%">
 
-**Technologies:**  
-Python • Machine Learning • XGBoost • SHAP • FastAPI
+<h3>🛡️ FraudShield</h3>
 
----
+AI-powered fraud detection system designed to identify suspicious transactions.
 
-### 👩‍🦺 Women Safety App
+<b>Technologies</b>
 
-AI-based women safety application focused on risk prediction and emergency response.
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
 
-**Technologies:**  
-Python • Machine Learning • Risk Prediction • Emergency Response
+Machine Learning • XGBoost • SHAP
 
----
+<br>
 
-### 🩺 [Diabetes Risk Prediction](https://github.com/sowdeshwarisoundarrajan/diabetics)
+<a href="https://github.com/sowdeshwarisoundarrajan/fraudshield">
+<b>🔗 View Project →</b>
+</a>
 
-Machine-learning based health risk prediction dashboard.
+</td>
 
-**Technologies:**  
-Python • Pandas • NumPy • Scikit-learn • Streamlit
+<td width="50%">
 
----
+<h3>👩‍🦺 Women Safety App</h3>
 
-### 🏆 [Hacksagan ML Project](https://github.com/sowdeshwarisoundarrajan/Hacksagan-ML-project)
+AI-based safety application focused on risk prediction and emergency response.
+
+<b>Technologies</b>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Machine Learning • Risk Prediction • Emergency Response
+
+<br>
+
+<a href="#">
+<b>🔗 View Project →</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🩺 Diabetes Risk Prediction</h3>
+
+Machine-learning based dashboard for diabetes risk prediction.
+
+<b>Technologies</b>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Pandas • NumPy • Scikit-learn • Streamlit
+
+<br>
+
+<a href="https://github.com/sowdeshwarisoundarrajan/diabetics">
+<b>🔗 View Project →</b>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🏆 Hacksagan ML Project</h3>
 
 Machine-learning project developed as part of a hackathon.
 
-**Focus Areas:**  
-AI/ML • Python • Software Development
+<b>Technologies</b>
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### ☕ [Java Practice](https://github.com/sowdeshwarisoundarrajan/java)
+AI/ML • Python • Problem Solving
 
-Java programming practice covering fundamentals and problem solving.
+<br>
 
-**Focus Areas:**  
-Java • OOP • Problem Solving • DSA
+<a href="https://github.com/sowdeshwarisoundarrajan/Hacksagan-ML-project">
+<b>🔗 View Project →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
