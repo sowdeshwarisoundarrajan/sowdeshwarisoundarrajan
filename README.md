@@ -49,7 +49,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ FraudShield
+### 🛡️ [FraudShield](https://github.com/sowdeshwarisoundarrajan/fraudshield)
 
 AI-powered fraud detection system for identifying suspicious transactions.
 
@@ -67,7 +67,7 @@ Python • Machine Learning • Risk Prediction • Emergency Response
 
 ---
 
-### 🩺 Diabetes Risk Prediction
+### 🩺 [Diabetes Risk Prediction](https://github.com/sowdeshwarisoundarrajan/diabetics)
 
 Machine-learning based health risk prediction dashboard.
 
@@ -76,14 +76,21 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 ---
 
-### 🏆 Hackathon Projects
+### 🏆 [Hacksagan ML Project](https://github.com/sowdeshwarisoundarrajan/Hacksagan-ML-project)
 
-Worked on AI/ML and software solutions through hackathons and technical events.
+Machine-learning project developed as part of a hackathon.
 
 **Focus Areas:**  
-AI/ML • Software Development • ECE
+AI/ML • Python • Software Development
 
 ---
+
+### ☕ [Java Practice](https://github.com/sowdeshwarisoundarrajan/java)
+
+Java programming practice covering fundamentals and problem solving.
+
+**Focus Areas:**  
+Java • OOP • Problem Solving • DSA
 
 ## 📊 GitHub Stats
 
