@@ -4,7 +4,7 @@
 
 💻 Aspiring Software Engineer  
 🚀 Java | Python | C | DSA | AI/ML  
-🔧 Interested in Software Development & Core ECE
+🔧 Software Development & Core ECE
 
 ---
 
@@ -18,58 +18,52 @@
 - 📚 Preparing for software engineering internships
 
 ---
+
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### AI / ML
+### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
 </p>
 
-### Development & Tools
+### 🔧 Development & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,fastapi" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,fastapi" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🛡️ FraudShield
 
 AI-powered fraud detection system for identifying suspicious transactions.
 
-**Tech Stack**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react" />
-</p>
-
-Machine Learning • XGBoost • SHAP
+**Technologies:**  
+Python • Machine Learning • XGBoost • SHAP • FastAPI
 
 ---
 
-### 👩‍🦺 Women Safety Mobile App
+### 👩‍🦺 Women Safety App
 
 AI-based women safety application focused on risk prediction and emergency response.
 
-**Tech Stack**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Machine Learning • Risk Prediction • Emergency Response
+**Technologies:**  
+Python • Machine Learning • Risk Prediction • Emergency Response
 
 ---
 
@@ -77,44 +71,59 @@ Machine Learning • Risk Prediction • Emergency Response
 
 Machine-learning based health risk prediction dashboard.
 
-**Tech Stack**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Pandas • NumPy • Scikit-learn • Streamlit
+**Technologies:**  
+Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 ---
 
 ### 🏆 Hackathon Projects
 
-Worked on multiple AI/ML, software and engineering problem statements through hackathons and technical events.
+Worked on AI/ML and software solutions through hackathons and technical events.
+
+**Focus Areas:**  
+AI/ML • Software Development • ECE
+
+---
+
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sowdeshwarisoundarrajan&show_icons=true&include_all_commits=true&count_private=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sowdeshwarisoundarrajan&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
-## 🔥 GitHub Streak
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowdeshwarisoundarrajan" />
-</p>
-## 💻 Coding & Learning
+---
 
-```text
-Java          ███████░░░
-Python        ██████░░░░
-C             ████████░░
-DSA           ████░░░░░░
-AI / ML       ██████░░░░
+## 💻 Currently Learning
+
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🧠 Problem Solving
+- 🤖 AI / Machine Learning
+- 💻 Software Development
+- 🔧 Git & GitHub
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Strengthen Java
+- [ ] Build strong DSA fundamentals
+- [ ] Solve coding problems consistently
+- [ ] Build production-ready projects
+- [ ] Improve GitHub portfolio
+- [ ] Contribute to open source
+- [ ] Prepare for software engineering internships
+
+---
+
 ## 📫 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/sowdeshwari-s-18333132a/" />
-  </a>
-  <a href="https://github.com/sowdeshwarisoundarrajan">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://www.linkedin.com/in/sowdeshwari-s-18333132a/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
+
+<a href="https://github.com/sowdeshwarisoundarrajan">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+</a>
 </p>
