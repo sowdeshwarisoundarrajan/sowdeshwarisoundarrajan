@@ -1,23 +1,34 @@
-# Hi 👋, I'm Sowdeshwari S
+<div align="center">
 
-### 🎓 3rd Year Electronics and Communication Engineering Student
+# 👋 Hi, I'm Sowdeshwari S
 
-💻 Aspiring Software Engineer  
-🚀 Java | Python | C | DSA | AI/ML  
-🔧 Software Development & Core ECE
+### 🎓 3rd Year Electronics & Communication Engineering Student
+
+💻 **Aspiring Software Engineer**  
+🚀 **Java | Python | C | DSA | AI/ML**  
+🔧 **Software Development | Core ECE**
+
+<p>
+  <a href="https://github.com/sowdeshwarisoundarrajan">
+    <img src="https://img.shields.io/badge/GitHub-Sowdeshwari-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sowdeshwari-s-18333132a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sowdeshwari-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 ECE Undergraduate
-- 💻 Currently strengthening Java and DSA
-- 🤖 Interested in AI/ML and Software Development
-- 🚀 Building practical projects
-- 🏆 Participating in hackathons and technical events
-- 📚 Preparing for software engineering internships
-
----
+🎓 ECE Undergraduate  
+💻 Currently strengthening **Java & DSA**  
+🤖 Interested in **AI/ML & Software Development**  
+🚀 Building practical projects  
+🏆 Participating in hackathons and technical events  
+📚 Preparing for software engineering internships
 
 ## 🛠️ Tech Stack
 
