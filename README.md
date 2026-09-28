@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sowdeshwari-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+%7C+Python+%7C+C+Developer;DSA+%7C+AI%2FML+Enthusiast;ECE+Student+%7C+Tech+Enthusiast;Building+Projects+%7C+Learning+Every+Day" />
+</p>
 
 </div>
 
